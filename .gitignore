@@ -1,0 +1,5 @@
+debugpy
+mods_base
+ui_utils
+settings/
+__pycache__

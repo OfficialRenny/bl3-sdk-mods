@@ -6,5 +6,6 @@ description = "Adds a keybind to teleport all nearby loot behind you."
 
 [tool.sdkmod]
 name = "Loot Teleporter"
-license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
-download = ""
+license = {name = "MIT", url = "https://choosealicense.com/licenses/mit/" }
+version = "1"
+download = "https://github.com/OfficialRenny/bl3-sdk-mods/raw/main/loot_teleporter/loot_teleporter.sdkmod"
