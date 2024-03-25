@@ -1,0 +1,10 @@
+[project]
+name = "loot_teleporter"
+version = "1"
+authors = [{ name = "Renny" }]
+description = "Adds a keybind to teleport all nearby loot behind you."
+
+[tool.sdkmod]
+name = "Loot Teleporter"
+license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
+download = ""
